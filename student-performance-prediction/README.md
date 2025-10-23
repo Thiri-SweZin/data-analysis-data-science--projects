@@ -89,22 +89,6 @@ print(f"Predicted Math Score: {predicted_score[0]:.2f}")
 
 ---
 
-## How to Run
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/student-performance-prediction.git
-   cd student-performance-prediction
-   ```
-2. Install dependencies  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook or script  
-   ```bash
-   python main.py
-   ```
-
----
 
 ## Author
 **Thiri Swe Zin**  
