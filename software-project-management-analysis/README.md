@@ -3,14 +3,11 @@
 ```
 software-project-management-analysis/
 │
-├── data/
-│   └── spm_survey_data.csv  
+├── spm_survey_data.csv  
 │
-├── report/
-│   └── SPM.docx
+├── SPM.docx
 │
-├── notebook/
-│   └── analysis.ipynb        
+├── analysis.ipynb        
 │
 ├── README.md
 └── requirements.txt
